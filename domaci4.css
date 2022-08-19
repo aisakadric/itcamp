@@ -1,0 +1,31 @@
+.container {
+    padding: 50px;
+    display: inline-block;
+}
+
+.card {
+    height:250px;
+    background-color: beige;
+     margin-bottom: 8px;
+}
+.left {
+    background-color: yellowgreen;
+    display: inline-block;
+    height: 100%;
+    width: 25%;
+    vertical-align: top;
+}
+.right {
+    background-color: pink;
+    display: inline-block;
+    height: 100%;
+    width: 70%;
+    vertical-align: top;
+}
+.right p {
+    line-height: 30 px;
+}
+.no border {
+    border: none
+    
+}

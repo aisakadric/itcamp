@@ -1,0 +1,74 @@
+h1 {
+    font-family: 'Times New Roman', Times, serif;
+    display: inline-block;
+    padding-top: 10%;
+
+}
+
+.down {
+    padding-top: 5%;
+    padding-right: 60%;
+    display: block;
+    text-align: justify;
+}
+
+.dugme {
+    background-color: rgb(190, 190, 228);
+    width: 80px;
+    color: aliceblue;
+    outline: none;
+    box-sizing: border-box;
+    border-color: rgb(190, 190, 228);
+    display: inline-block;
+    border-radius: 10px;
+}
+
+input {
+    width: 60%;
+    display: inline-block;
+    border-color: black;
+    box-sizing: border-box;
+    writing-mode: horizontal-tb;
+}
+
+.skroz-down {
+    position: relative;
+    display: inline-block;
+    width: 60%;
+}
+
+.dugmad {
+    display: inline-block;
+    background-color: rgba(107, 114, 128_);
+    border-radius: 10px;
+    width: 150px;
+    height: 60px;
+
+    box-sizing: border-box;
+    border-radius: 10px;
+}
+
+img {
+    width: 20px;
+}
+
+.deo {
+    display: inline-flexbox;
+}
+
+p1 {
+    /*font: size 0.75em;*/
+    color: rgba(75, 85, 99, var(--tw-text-opacity));
+    display: block;
+}
+
+.kontejner {
+    display: inline;
+}
+
+#slika {
+
+    height: 200px;
+    width: 300px;
+    background-color: rgb(190, 199, 182);
+}
